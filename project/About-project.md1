@@ -4,28 +4,24 @@ The objective of this project is to develop a basic console-based To-Do List app
 Description:
 The To-Do List application will function as a simple task management system. Users will be able to:
 
-- **Add Tasks**: Input task descriptions to be saved in the to-do list.
-- **View Tasks**: Display the list of current tasks.
-- **Update Tasks**: Modify task descriptions if needed.
-- **Mark Tasks as Complete**: Mark tasks as completed and differentiate between completed and pending tasks.
-- **Delete Tasks**: Remove tasks from the list once they are no longer needed.
-- **Save and Retrieve Data**: Use file handling to save tasks persistently, even after the program is closed.
-
-**Key Features:**
+- Add Tasks: Input task descriptions to be saved in the to-do list.
+- View Tasks: Display the list of current tasks.
+- Update Tasks: Modify task descriptions if needed.
+- Mark Tasks as Complete: Mark tasks as completed and differentiate between completed and pending tasks.
+- Delete Tasks: Remove tasks from the list once they are no longer needed.
+- Save and Retrieve Data: Use file handling to save tasks persistently, even after the program is closed.
+- Filter 
+Key Features:
 1. **Task Management**: Add, view, edit, mark as complete, and delete tasks.
 2. **Persistent Storage**: Save tasks to a file (e.g., using JSON or text files) to retain data across sessions.
 3. **Status Tracking**: Indicate task completion status.
-4. **Error Handling**: Ensure user-friendly prompts and error handling for invalid inputs.
+4. **Error Handling: Ensure user-friendly prompts and error handling for invalid inputs.
 
-**Technologies and Concepts Used:**
-
+Technologies and Concepts Used:
 - Python fundamentals (functions, loops, and conditionals)
 - File handling (to save tasks to a file and read them on program startup)
 - Lists and dictionaries for data management
 - Input validation and basic error handling
 
-**Expected Outcome:**  
+Expected Outcome:
 A console-based To-Do List application that allows users to manage their tasks conveniently. The project will enhance understanding of Python programming concepts, particularly in data management, file handling, and interactive application development.
-
-**Future Enhancements:**  
-For future development, this project could be expanded with a graphical user interface (GUI) using libraries like Tkinter, task categorization, priority settings, and reminder notifications.
