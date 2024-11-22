@@ -1,9 +1,9 @@
-QUESTIONS
+'''QUESTIONS
 WAP to find a number is Prime or not.
 2.	WAP to find the given number is palindrome or not.
 3.	WAP to find the grade of student using given percentage
 4.	WAP to create a simple console base calculator
-ANSWERS
+ANSWERS'''
 #1
 def is_prime(num):
     if num <= 1:
